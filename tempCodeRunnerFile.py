@@ -1,1 +1,0 @@
-random.randrange(-1500, -100)
